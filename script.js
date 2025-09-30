@@ -16,3 +16,7 @@ class  Jogador {
             ---------------------------`)
     }
 }
+
+let jogador1 = new Jogador(1, "Zé da manga", 578);
+
+console.table(jogador1);
